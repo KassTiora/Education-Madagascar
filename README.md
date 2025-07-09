@@ -1,2 +1,2 @@
 # Education-Madagascar
-This project consists of presenting the evolution of education in Madagascar from 2020 to 2024, as well as a forecast for the coming years.
+This project features a Streamlit application that visualizes the evolution of education in Madagascar from 2020 to 2025. It also includes predictions of student numbers or key indicators for the coming years based on historical data.
