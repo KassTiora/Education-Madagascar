@@ -20,7 +20,7 @@ This project presents the evolution of education in Madagascar from 2020 to 2024
 ## 🚀 How to Run the Project
 
 ## bash
-git clone https://github.com/KassTiora/Education-Madagascar-2020-2025.git
+git clone https://github.com/KassTiora/Education-Madagascar.git
 cd education-madagascar-2020-2025
 pip install -r requirements.txt
 streamlit run EDUCATION.py
